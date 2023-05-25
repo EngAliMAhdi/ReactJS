@@ -1,0 +1,29 @@
+[
+    {
+        "question":"what is the image tag in HTML?",
+        "answers":[
+                {"ans":"<a>", "isCorrect":false},
+                {"ans":"<h1>", "isCorrect":false},
+                {"ans":"<img>", "isCorrect":true},
+                {"ans":"<br>", "isCorrect":false}
+                 ]
+    },
+    {
+        "question":"what is the Heading tag in HTML?",
+        "answers":[
+                {"ans":"<a>", "isCorrect":false},
+                {"ans":"<h1>", "isCorrect":true},
+                {"ans":"<img>", "isCorrect":false},
+                {"ans":"<br>", "isCorrect":false}
+                 ]
+    },
+    {
+        "question":"what is the link tag in HTML?",
+        "answers":[
+                {"ans":"<a>", "isCorrect":true},
+                {"ans":"<h1>", "isCorrect":false},
+                {"ans":"<img>", "isCorrect":false},
+                {"ans":"<br>", "isCorrect":false}
+                 ]
+    }
+]

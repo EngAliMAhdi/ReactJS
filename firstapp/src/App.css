@@ -1,0 +1,12 @@
+header{
+  background-color: black;
+  color: white;
+  height: 10vh;
+}
+section{
+  height: 75vh;
+}
+footer{
+  height: 15vh;
+  background-color: darkgray;
+}
