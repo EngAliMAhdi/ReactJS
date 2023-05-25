@@ -6,7 +6,7 @@ function App2() {
     <div>   
         {log ? <Login setLog={setLog} setUser={setUser}/> : <Panel user={user} />}
     </div>
-  )
+  ) //@
 }
 function Login({setLog,setUser}) {
     // function click() {
