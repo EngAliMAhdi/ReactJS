@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { dataList } from './DataList'
 
-//console.log(dataList[0].answers[2].isCorrect)
+///console.log(dataList[0].answers[2].isCorrect)
 function Quiz() {
     const [count,setCount] = useState(0)
     const [score,setScore] = useState(0)
